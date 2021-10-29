@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS smoor_dev_db_01;
+CREATE DATABASE smoor_dev_db_01;
