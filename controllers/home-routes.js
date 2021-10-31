@@ -13,5 +13,21 @@ router.get('/', async (req, res) => {
     res.render('all', {scrolls});
 });
 
+//Route: One Scroll by id
+
+router.get('/formal_scroll/:id', async (req, res) => {
+    try{
+        const scrolldata = await F_Scroll.findByPk(req.params.id);
+        if(!scrolldata) {
+            res.status(404).json({message: 'Scroll Does Not Exist'});
+            return;
+        }
+        const scroll = scrolldata.get({ plain: true });
+        res.render('scroll', scroll);
+    } catch (err) {
+        res.status(500).json(err);
+    }
+})
+
 
 module.exports = router;

@@ -15,11 +15,11 @@
     </tr>
     {{#each scrolls as |scroll|}}
     <tr>
-      <td>{{scroll.level}}</td>
-      <td>{{scroll.scroll_name}}</td>
-      <td>{{scroll.component}}</td>
-      <td>{{scroll.base_cost}} {{scroll.base_coin}}</td>
-      <td>{{#if scroll.shot_status}} Yes {{else}} No {{/if}}</td>
+      <td class="col-md-1">{{scroll.level}}</td>
+      <td class="col-md-4">{{scroll.scroll_name}}</td>
+      <td class="col-md-4">{{scroll.component}}</td>
+      <td class="col-md-2">{{scroll.base_cost}} {{scroll.base_coin}}</td>
+      <td class="col-md-1">{{#if scroll.shot_status}} Yes {{else}} No {{/if}}</td>
     </tr>
     {{/each}}
       
