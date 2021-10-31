@@ -1,0 +1,20 @@
+<div class="menu-container">
+  <div class="card-header col-md-12 text-center">
+    <h2>
+      &#127869 Formal List
+    </h2>
+  </div>
+  {{#each scrolls as |scroll|}}
+  <div class="dish col-md-6">
+    <p>
+      {{scroll.scroll_name}}
+      {{scroll.component}}
+      {{scroll.base_cost}}
+      {{scroll.base_coin}}
+    </p>
+  </div>
+  
+  <div class="col-md-2">
+    🥜: {{#if scroll.shot_status}} Shotted {{else}} Unshotted {{/if}}
+  </div>
+  {{/each}}
