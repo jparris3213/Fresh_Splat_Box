@@ -1,0 +1,2382 @@
+[
+  {
+    "component_name": "Star Dust",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Formal Area",
+    "notes": ""
+  },
+  {
+    "component_name": "Celestial Dust",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Formal Ward",
+    "notes": ""
+  },
+  {
+    "component_name": "Unbroken Quartz Geode",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Invest/Divest",
+    "notes": ""
+  },
+  {
+    "component_name": "Meteoric Iron Signet Ring",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 12,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Blood Oath",
+    "notes": ""
+  },
+  {
+    "component_name": "Bronze Razor Wire",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 25,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Damage Aura - Lesser",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of Celestial Illusion",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Disrupt Celestial Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Light from the Fulcrum",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Immunity to Planar Effects",
+    "notes": "Price was 50"
+  },
+  {
+    "component_name": "Crushed Quartz Geode",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Link",
+    "notes": "Price was 35"
+  },
+  {
+    "component_name": "Cockatrice Feather",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Message Arrow",
+    "notes": "Price was 55"
+  },
+  {
+    "component_name": "Husk of a Queen Bee",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 15,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transfer Master Control",
+    "notes": ""
+  },
+  {
+    "component_name": "Husk of a Queen Bee",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 15,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transfer Master Control",
+    "notes": ""
+  },
+  {
+    "component_name": "Ink from a Celestial Horror",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Wizard Mark",
+    "notes": ""
+  },
+  {
+    "component_name": "Pumice",
+    "school": "Celestial",
+    "level": 3,
+    "base_cost": 0.7,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Enchant Item",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Topaz",
+    "school": "Celestial",
+    "level": 3,
+    "base_cost": 6,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Identify",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Salamander",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Aura of Flame",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of an Undine",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Aura of Ice",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Sylph",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Aura of Lightning",
+    "notes": ""
+  },
+  {
+    "component_name": "Celestial Sundial",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Extend Celestial Formal Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Mouth of a Mimic",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Magic Mouth",
+    "notes": ""
+  },
+  {
+    "component_name": "Broken Etherscope",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Mask Enchantments",
+    "notes": ""
+  },
+  {
+    "component_name": "Celestial Fragments",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Barrier Ward",
+    "notes": ""
+  },
+  {
+    "component_name": "Iron Razor Wire",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Damage Aura",
+    "notes": ""
+  },
+  {
+    "component_name": "Piece of Elemental Fire, Ice, or Lightning",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 75,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Elemental Strike",
+    "notes": ""
+  },
+  {
+    "component_name": "Piece of Elemental Acid",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Elemental Strike - Acid",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Essence of (Specific Elemental Plane)",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 55,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Imbue Essence (type)",
+    "notes": ""
+  },
+  {
+    "component_name": "Feather of a Phoenix",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 8,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Expand",
+    "notes": ""
+  },
+  {
+    "component_name": "Bronze Spun Wire",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Aura of Damage",
+    "notes": ""
+  },
+  {
+    "component_name": "Mantle of a Swan May",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Cloak",
+    "notes": ""
+  },
+  {
+    "component_name": "Light from a Black Hole",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Destroy Celestial Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Metoric Silver",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 55,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Spell Strike",
+    "notes": ""
+  },
+  {
+    "component_name": "Mandibles of a Phase Spider",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 200,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Teleport",
+    "notes": ""
+  },
+  {
+    "component_name": "Celestial Planar Material",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 135,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Ethereal Ward",
+    "notes": ""
+  },
+  {
+    "component_name": "Steel Razor Wire",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 150,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Damage Aura - Greater",
+    "notes": ""
+  },
+  {
+    "component_name": "Strand of the Planar Web",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Confining",
+    "notes": ""
+  },
+  {
+    "component_name": "Blessing of a Fendari Lord",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Hypothalamus of a Mind Flayer Lord",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Mind Affecting",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a Mimic",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Augment - Mental Expansion",
+    "notes": ""
+  },
+  {
+    "component_name": "Blood of the Lord of Pain",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Damage Aura - Slaying",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Topaz",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 6,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Greater Identify",
+    "notes": ""
+  },
+  {
+    "component_name": "Mandibles of a Greater Phase Spider",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 500,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Mass Teleport",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Essence of (destination plane)",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 125,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Open Planar Gate",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Falling Star",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 250,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Permanency",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of the Deepest Desert",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Celestial Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Silver Ink",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Warder Glyph",
+    "notes": ""
+  },
+  {
+    "component_name": "Refined Mithril Ink",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Warder Glyph - Dragonkin",
+    "notes": ""
+  },
+  {
+    "component_name": "Anchor made of Celestial Planar Material",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Wizard Seal",
+    "notes": ""
+  },
+  {
+    "component_name": "Rusted piece of Iron Golem",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 15,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Rust Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "A Straw Hat",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 10,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Straw Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust ground from Stained Glass",
+    "school": "Celestial",
+    "level": 2,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Glass Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Cartoid Gnomish Gears",
+    "school": "Celestial",
+    "level": 3,
+    "base_cost": 55,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Clockwork Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "100 Year Old Anvil",
+    "school": "Celestial",
+    "level": 3,
+    "base_cost": 55,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Iron Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Perfect Quartz Orb",
+    "school": "Celestial",
+    "level": 3,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Quartz Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "A Gray Marble Mask",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Gargoyle",
+    "notes": ""
+  },
+  {
+    "component_name": "Chipped Pearl",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Pearl Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart from a Golden Elm",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Wood Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Amethyst Egg",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Amethyst Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence from the Great Reef",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Coral Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "A Cloth of Silver Cape",
+    "school": "Celestial",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Silver Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Vein of Mercury",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 190,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Mercury Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "A Bell of Saphire",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 145,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Sapphire Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Emerald Globe",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 170,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Emerald Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "One Gallon of Liquid Gold",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Gold Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "A Solid Adamant Orb",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Adamantine Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Imperial Jade Figurine",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Jade Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Perfect Diamond Heart",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Diamond Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Raw Brick of Meteoric Iron",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Meteoric Iron Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Perfect Mithril Statue",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Mithril Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "An Acid Scepter",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 105,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Acid Squire",
+    "notes": ""
+  },
+  {
+    "component_name": "A Flame Staff",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Flame Squire",
+    "notes": ""
+  },
+  {
+    "component_name": "An Ice Scepter",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Ice Squire",
+    "notes": ""
+  },
+  {
+    "component_name": "A Lightning Orb",
+    "school": "Celestial",
+    "level": 6,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lightning Squire",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Lesser Black Drake",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Acid Warder",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Lesser Red Drake",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 135,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Flame Warder",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Lesser White Drake",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 135,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Ice Warder",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Lesser Blue Drake",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 135,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lightning Warder",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Beserker Lord",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 145,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Acid Knight",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Fire Giant",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 165,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Flame Knight",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Frost Giant",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 165,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Ice Knight",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Storm Giant",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 165,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lightning Knight",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Black Drake",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 350,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Acid Guardian",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Red Drake",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 325,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Flame Guardian",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a White Drake",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 325,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Ice Guardian",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Blue Drake",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 325,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lightning Guardian",
+    "notes": ""
+  },
+  {
+    "component_name": "Giant Glass Serpent",
+    "school": "Celestial",
+    "level": 8,
+    "base_cost": 300,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Lesser Medusa",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Piece of Elemental Earth",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 160,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Elemental Storm - Acid",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Piece of Elemental - Fire, Water, or Air",
+    "school": "Celestial",
+    "level": 9,
+    "base_cost": 150,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Elemental Storm - Fire, Ice, Lightning",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Sand",
+    "school": "Earth",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Formal Area",
+    "notes": ""
+  },
+  {
+    "component_name": "Amber with Trapped Insect",
+    "school": "Earth",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Invest/Divest",
+    "notes": ""
+  },
+  {
+    "component_name": "Ivory Signet Rings",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 12,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Blood Oath",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Powdered Amethyst",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 15,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Cleanse",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust from a Fault Line",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Disrupt Earth Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust from the Fulcrum",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Immunity to Planar Effects",
+    "notes": ""
+  },
+  {
+    "component_name": "Melted Amber with Trapped Insect",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Link",
+    "notes": ""
+  },
+  {
+    "component_name": "Quill of a Shadow Messenger",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Phantom Message",
+    "notes": "(price was 55)"
+  },
+  {
+    "component_name": "Dragon Scale",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 10,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Protection Aura",
+    "notes": ""
+  },
+  {
+    "component_name": "Quartz",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 0.7,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Enchant Item",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Necrite Dust",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Harvest Attribute (Least)",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a 100 Year Old Oak (Primary Component), Iron Manacles that once shackled (target race) (Secondary Component)",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Proscribe Creature",
+    "notes": "Price is the same for each component"
+  },
+  {
+    "component_name": "Apple from a Faerie's Tree",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 25,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Aura of Healing",
+    "notes": ""
+  },
+  {
+    "component_name": "Putrid Water",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Necro Attunement",
+    "notes": ""
+  },
+  {
+    "component_name": "Shell of a Dragon Turtle",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Extend Earth Formal Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Wings of a Genchee",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Mask Enchantments",
+    "notes": ""
+  },
+  {
+    "component_name": "Pebble From the Fountain of Youth",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Spirit Aura",
+    "notes": ""
+  },
+  {
+    "component_name": "An Unlooked Upon Mirror",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 125,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Destroy Race Change",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Essence of (Specific Moral Plane)",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Imbue Essence (type)",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of the Void",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Open Rift",
+    "notes": ""
+  },
+  {
+    "component_name": "Golden Scales",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Remove Taint",
+    "notes": ""
+  },
+  {
+    "component_name": "Powdered Black Pearl",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Soul Shield",
+    "notes": ""
+  },
+  {
+    "component_name": "Swamp Giant Essence",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Zone of Clean Air",
+    "notes": ""
+  },
+  {
+    "component_name": "Bloom of a Century Cactus",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 8,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Expand",
+    "notes": ""
+  },
+  {
+    "component_name": "Death Elemental Essence",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Soul Destroy",
+    "notes": ""
+  },
+  {
+    "component_name": "Hide of a Stone Drake",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Cloak",
+    "notes": ""
+  },
+  {
+    "component_name": "Ancestral Hammer of a Dwarven Lord",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Destroy Earth Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Volcanic Silver",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 55,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Spell Strike",
+    "notes": ""
+  },
+  {
+    "component_name": "Vial of True Darkness",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Drae",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of Elemental Magic",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Fendari",
+    "notes": ""
+  },
+  {
+    "component_name": "Runic Name of a Gnomish King",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Gnome",
+    "notes": ""
+  },
+  {
+    "component_name": "Virtue of a Maiden",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Half Ogre",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart from an Elder Orc Warlord",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Half Orc",
+    "notes": ""
+  },
+  {
+    "component_name": "A Perfect Smoke Ring",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Hobling",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of the World Eater",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Human",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a Mountain",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Mountain Dwarf",
+    "notes": ""
+  },
+  {
+    "component_name": "Blood from a 1000 year old Elf Lord",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Sarr",
+    "notes": ""
+  },
+  {
+    "component_name": "Spine from a Black Sea Urchin",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Sea Elf",
+    "notes": ""
+  },
+  {
+    "component_name": "Fungus from an Underdark Cavern",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Shadow Dwarf",
+    "notes": ""
+  },
+  {
+    "component_name": "Block of Pure White Marble",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Stone Elf",
+    "notes": ""
+  },
+  {
+    "component_name": "Leaf from the Tree of Life",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Surface Elf",
+    "notes": ""
+  },
+  {
+    "component_name": "Golden Apple from the Tree of Life",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Sylvan Fae",
+    "notes": ""
+  },
+  {
+    "component_name": "A living Albino Animal of type",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Wilder (Type)",
+    "notes": ""
+  },
+  {
+    "component_name": "Ancestral Sampan Tea Set",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 80,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Sampan",
+    "notes": ""
+  },
+  {
+    "component_name": "Horn from a Bloodhorn's Helm",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Reaver",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Foam from the Crest of a Tsunami",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Islander",
+    "notes": ""
+  },
+  {
+    "component_name": "Heartwood of a Sylvani Lorekeeper",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Sylvani",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Beard Braid of a Dwarven Hero",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Amrothian Dwarf",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Stone From the Cairn of a Barbarian Legend",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Barbarian",
+    "notes": ""
+  },
+  {
+    "component_name": "Egg Tooth of a Lizardman Mystic",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Lizardman",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Blood of a Gargoyle Abomination",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Gargoyle",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Essence of a Shadow",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 75,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Word of Recall",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a True Necromancer",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Healing/Curing",
+    "notes": ""
+  },
+  {
+    "component_name": "Eye of a Stone Giant",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Metabolic",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a True Healer",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Necro/Chaos",
+    "notes": ""
+  },
+  {
+    "component_name": "Gills of a Sea Elf",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Toxins",
+    "notes": ""
+  },
+  {
+    "component_name": "Blood from the Plane of Undeath",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Undead Destruction",
+    "notes": ""
+  },
+  {
+    "component_name": "Mithril Signet Rings",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Spirit Oath",
+    "notes": ""
+  },
+  {
+    "component_name": "Claws of a Death Elemental",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 500,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Spirit Wrack",
+    "notes": ""
+  },
+  {
+    "component_name": "Eyes of a Doppleganger",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Augment (Type)",
+    "notes": ""
+  },
+  {
+    "component_name": "Tear of Silvermist or Tear of Greymist",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Banish Extra-Planar Being",
+    "notes": ""
+  },
+  {
+    "component_name": "Soil from the Hero's Graveyard",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Champion's Cause",
+    "notes": ""
+  },
+  {
+    "component_name": "Soil from the Plane of Death",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Defilement of Death",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Shadow Lord",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 125,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Mass Word of Recall",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Soil of Tyrra",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Nature's Wrath",
+    "notes": ""
+  },
+  {
+    "component_name": "Skin of a Fairy Dragon",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Obfuscate",
+    "notes": ""
+  },
+  {
+    "component_name": "Death Elemental Lord's Teeth",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Obliterate",
+    "notes": ""
+  },
+  {
+    "component_name": "Flawless Essence of (Destination Plane)",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 125,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Open Planar Gate",
+    "notes": ""
+  },
+  {
+    "component_name": "Blood of Amroth",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 250,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Permanency",
+    "notes": ""
+  },
+  {
+    "component_name": "Blood of the Primarch of the Plane of (plane)",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Planar Fortitude (type)",
+    "notes": ""
+  },
+  {
+    "component_name": "Blessing of an Avatar of Death",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Death Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Rain of the Deepest Desert",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Resistance - Earth Magic",
+    "notes": ""
+  },
+  {
+    "component_name": "Cobblestone from the Bridge of Life",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Sanctuary of Life",
+    "notes": ""
+  },
+  {
+    "component_name": "Adamantine Signet Rings",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Soul Oath",
+    "notes": ""
+  },
+  {
+    "component_name": "Knuckle Bone of an Ancient Lich",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Undeath's Plague",
+    "notes": ""
+  },
+  {
+    "component_name": "Pure Quicksilver Ink",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Warder Glyph",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse of Stuttering",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse of Fumble Fingers",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse of Honesty",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse - Mute",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse - Slow",
+    "notes": ""
+  },
+  {
+    "component_name": "Dust of a Greater Mummy",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Lesser Curse - Weakness",
+    "notes": ""
+  },
+  {
+    "component_name": "Head of a Golden Jackal",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 75,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Remove Curse",
+    "notes": ""
+  },
+  {
+    "component_name": "Dying Breath of an Exiled Gypsy",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Greater Curse - Feeblemind",
+    "notes": ""
+  },
+  {
+    "component_name": "Dying Breath of an Exiled Gypsy",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Greater Curse of Pain",
+    "notes": ""
+  },
+  {
+    "component_name": "Dying Breath of an Exiled Gypsy",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 85,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Greater Curse of Decay",
+    "notes": ""
+  },
+  {
+    "component_name": "Wrappings of a Mummy Lord",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 175,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Master Curse of Pacifism",
+    "notes": ""
+  },
+  {
+    "component_name": "Wrappings of a Mummy Lord",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 175,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Master Curse of Powerlessness",
+    "notes": ""
+  },
+  {
+    "component_name": "Wrappings of a Mummy Lord",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 175,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Master Curse of Permanent Wounds",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a Giant",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 10,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Homunculus",
+    "notes": ""
+  },
+  {
+    "component_name": "Vial of Shadow's Ink",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 65,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Lesser Shadow",
+    "notes": ""
+  },
+  {
+    "component_name": "Magma from the Core",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 65,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Salamander",
+    "notes": ""
+  },
+  {
+    "component_name": "Piece of Blue Coral",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 65,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Undine",
+    "notes": ""
+  },
+  {
+    "component_name": "An Untuned Violin",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Chaos Fiend",
+    "notes": ""
+  },
+  {
+    "component_name": "Granite Sphere",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Ghob",
+    "notes": ""
+  },
+  {
+    "component_name": "Wind from the Eye of a Hurricane",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Sylph",
+    "notes": ""
+  },
+  {
+    "component_name": "A Perfectly Tuned Silver Horn",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Law Seeker",
+    "notes": ""
+  },
+  {
+    "component_name": "Sands from a Dead Town",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 120,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Death Stalker",
+    "notes": ""
+  },
+  {
+    "component_name": "A Greater Stone Drake Egg",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 145,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Stone Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Ashes of a Phoenix",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 120,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Life Watcher",
+    "notes": ""
+  },
+  {
+    "component_name": "Lump of Iron Clay",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Clay Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Torch from the Plane of Fire",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 150,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Fire Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of the Ocean",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 150,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Water Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Wind from the Eye of a Tornado",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 175,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Air Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "2 Mithril Dice, Blackened with Age",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 190,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Chaos Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Rock from the Plane of Earth",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 175,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Earth Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Mithril Gavel",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 190,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Law Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a Black Unicorn",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Death Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Bones of an Ancient Drake",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Flesh Golem",
+    "notes": ""
+  },
+  {
+    "component_name": "Golden Horn of a Unicorn",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Life Elemental",
+    "notes": ""
+  },
+  {
+    "component_name": "Skull of a Goblin",
+    "school": "Earth",
+    "level": 1,
+    "base_cost": 7.5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Skeleton",
+    "notes": ""
+  },
+  {
+    "component_name": "Maggot Infested Meat",
+    "school": "Earth",
+    "level": 1,
+    "base_cost": 7.5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Ceate Zombie",
+    "notes": ""
+  },
+  {
+    "component_name": "Arm of a Cursed Pirate",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 10,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Crawling Claw",
+    "notes": ""
+  },
+  {
+    "component_name": "Skull of an Orc",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Skeletal Minion",
+    "notes": ""
+  },
+  {
+    "component_name": "Skin of a Dryad",
+    "school": "Earth",
+    "level": 2,
+    "base_cost": 20,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Wight",
+    "notes": ""
+  },
+  {
+    "component_name": "Tentacles of a Carrion Crawler",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Ghoul",
+    "notes": ""
+  },
+  {
+    "component_name": "Dessicated Humanoid Hand",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 35,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Mummy",
+    "notes": ""
+  },
+  {
+    "component_name": "Maggot Infested Brain",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Zombie Master",
+    "notes": ""
+  },
+  {
+    "component_name": "Bile of a Manticore",
+    "school": "Earth",
+    "level": 4,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Ghast",
+    "notes": ""
+  },
+  {
+    "component_name": "Powdered Bones of a Unicorn",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 70,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Spectre",
+    "notes": ""
+  },
+  {
+    "component_name": "Heart of a Wyvern",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 110,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Revenant",
+    "notes": ""
+  },
+  {
+    "component_name": "Ashes ofa Stillborn Child",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 70,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Death Master",
+    "notes": ""
+  },
+  {
+    "component_name": "Linen Burial Shroud",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Wraith",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of an Innocent",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 90,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Ghost",
+    "notes": ""
+  },
+  {
+    "component_name": "Skull of an Ogre Magi",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Skeletal Mage",
+    "notes": ""
+  },
+  {
+    "component_name": "Skull of a Giant",
+    "school": "Earth",
+    "level": 6,
+    "base_cost": 100,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Skeletal Beast",
+    "notes": ""
+  },
+  {
+    "component_name": "Venom from a Medusa",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 145,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Ghoul",
+    "notes": ""
+  },
+  {
+    "component_name": "Cremated Ashes of a Werewolf",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 170,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Mummy",
+    "notes": ""
+  },
+  {
+    "component_name": "Fingerbone Cloak",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 145,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Spectre",
+    "notes": ""
+  },
+  {
+    "component_name": "Skin of a Titan",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 225,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Revenant",
+    "notes": ""
+  },
+  {
+    "component_name": "Cloth-of-Silver Burial Shroud",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 200,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Wraith",
+    "notes": ""
+  },
+  {
+    "component_name": "Essence of a Martyr",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 200,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Ghost",
+    "notes": ""
+  },
+  {
+    "component_name": "Ivory and Saphire Diadem",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Death Lord",
+    "notes": ""
+  },
+  {
+    "component_name": "Horned Skull of a Chaos Beastman Champion",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Death Knight",
+    "notes": ""
+  },
+  {
+    "component_name": "Horned Skull of a Wererat",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Death Rogue",
+    "notes": ""
+  },
+  {
+    "component_name": "Skull of an Ancient Lich",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Demilich",
+    "notes": ""
+  },
+  {
+    "component_name": "Werewolf Lord Heart",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 375,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Lich",
+    "notes": ""
+  },
+  {
+    "component_name": "Fresh, naturally lost canine teeth from (animal)",
+    "school": "Earth",
+    "level": 3,
+    "base_cost": 50,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Nature's Companion",
+    "notes": ""
+  },
+  {
+    "component_name": "Musk of (animal)",
+    "school": "Earth",
+    "level": 5,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Nature's Ally",
+    "notes": ""
+  },
+  {
+    "component_name": "UNKNOWN",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Nature's Guardian",
+    "notes": ""
+  },
+  {
+    "component_name": "UNKNOWN",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Summon Nature's Champion",
+    "notes": ""
+  },
+  {
+    "component_name": "Wings of a Hollyphant",
+    "school": "Earth",
+    "level": 8,
+    "base_cost": 200,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Remove Greater Curse",
+    "notes": ""
+  },
+  {
+    "component_name": "Hoof of a Unicorn",
+    "school": "Earth",
+    "level": 9,
+    "base_cost": 400,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Remove Master Curse",
+    "notes": ""
+  },
+  {
+    "component_name": "Perfect Ruby",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Preserve Earth",
+    "notes": ""
+  },
+  {
+    "component_name": "Perfect Sapphire",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 45,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Preserve Celestial",
+    "notes": ""
+  },
+  {
+    "component_name": "Funnel Made of Purest Silver",
+    "school": "Celestial",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Lesser Focus (Celestial)",
+    "notes": ""
+  },
+  {
+    "component_name": "Orange Sea Sponge",
+    "school": "Earth",
+    "level": 1,
+    "base_cost": 5,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Lesser Focus (Earth)",
+    "notes": ""
+  },
+  {
+    "component_name": "Funnel Made of Purest Gold",
+    "school": "Celestial",
+    "level": 7,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Focus (Celestial)",
+    "notes": ""
+  },
+  {
+    "component_name": "Red Sea Sponge",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 30,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Create Greater Focus (Earth)",
+    "notes": ""
+  },
+  {
+    "component_name": "Pebble of <Elemental> from the Elemental Plane",
+    "school": "Celestial",
+    "level": 4,
+    "base_cost": 60,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Elemental Aura",
+    "notes": "Limited quantity per year"
+  },
+  {
+    "component_name": "Feather of an Imperial Peacock",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Amrothian Ogre",
+    "notes": "RP Required - 50"
+  },
+  {
+    "component_name": "Tail-Fan of an Imperial Peacock",
+    "school": "Earth",
+    "level": 7,
+    "base_cost": 0,
+    "base_coin": "gold",
+    "rarity": "common",
+    "scroll": "Transform to Amrothian Ogre Mage",
+    "notes": "RP Required - 300 - Ogres DO NOT hand this out for anything besides a major reward (with trust)."
+  }
+]

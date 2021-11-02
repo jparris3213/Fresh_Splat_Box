@@ -1,0 +1,351 @@
+[
+  {
+    "prod_name": "10 Acid (Gas)",
+    "type": "Alchemy",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "notes": "The 10 Acid Gas causes ten (10) points of damage to armor and/or Body, upon contact when the vial is broken. The vial must be thrown at the intended target. This damage may not be blocked in any way. This attack will affect most creatures, even those normally only affected by magic weapons and attacks."
+  },
+  {
+    "prod_name": "20 Acid (Gas)",
+    "type": "Alchemy",
+    "point_cost": 7,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The 20 Acid Gas causes twenty (20) points of damage to armor and/or Body, upon contact when the vial is broken. The vial must be thrown at the intended target. This damage may not be blocked in any way. This attack will affect most creatures, even those normally only affected by magic weapons and attacks."
+  },
+  {
+    "prod_name": "30 Acid (Gas)",
+    "type": "Alchemy",
+    "point_cost": 12,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The 30 Acid Gas causes thirty (30) points of damage to armor and/or Body, upon contact when the vial is broken. The vial must be thrown at the intended target. This damage may not be blocked in any way. This attack will affect most creatures, even those normally only affected by magic weapons and attacks."
+  },
+  {
+    "prod_name": "Alchemical Solvent (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Alchemical Solvent will negate an Oil of Slipperiness or Paste of Stickiness."
+  },
+  {
+    "prod_name": "Antidote (Elixir)",
+    "type": "Alchemy",
+    "point_cost": 5,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Antidote Gas/Elixir will spell will remove any foreign substance in the target’s blood. This includes the Poison (EG/D,5) and Inflict Poison (N,5), the Purify Blood (EG/D, 5) if Desecrated, Blade Venom, taglines, Venoms, ingested Poisons, Gas Poisons, alcohol, and any other Toxin."
+  },
+  {
+    "prod_name": "Antidote Gas (Gas)",
+    "type": "Alchemy",
+    "point_cost": 10,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Antidote Gas/Elixir will spell will remove any foreign substance in the target’s blood. This includes the Poison (EG/D,5) and Inflict Poison (N,5), the Purify Blood (EG/D, 5) if Desecrated, Blade Venom, taglines, Venoms, ingested Poisons, Gas Poisons, alcohol, and any other Toxin."
+  },
+  {
+    "prod_name": "Cure +2 Damage (Elixir)",
+    "type": "Alchemy",
+    "point_cost": 1,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Cure +2 Damage elixir or Gas will restore two (2) Body Points and has the ability to restore an Unconscious or Bleeding to Death Character to consciousness with two (2) Body Points. This Gas /Elixir has no effect on a Dead or Slain Character."
+  },
+  {
+    "prod_name": "Cure +2 Damage (Gas)",
+    "type": "Alchemy",
+    "point_cost": 2,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Cure +2 Damage elixir or Gas will restore two (2) Body Points and has the ability to restore an Unconscious or Bleeding to Death Character to consciousness with two (2) Body Points. This Gas /Elixir has no effect on a Dead or Slain Character."
+  },
+  {
+    "prod_name": "Cure +12 Damage (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 5,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Cure +12 Damage solvent will restore twelve (12) Body Points and has the ability to return an Unconscious or Bleeding to Death Character to consciousness with twelve (12) Body Points. This Gas /elixir has no effect on a Dead or Slain Character. This solvent must be applied to the wounded Character on a three-count."
+  },
+  {
+    "prod_name": "Light (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 1,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "12 Hours",
+    "notes": "The Light solvent produces light when the vial is broken over an object to be lit, much like a Light (E,1) spell. The light produced by a Light solvent is diffuse and may not be used to blind opponents. This solvent will last until up to twelve (12) hours or until daybreak, whichever comes first. A Light solvent cannot be applied to weapons. Glow sticks are the preferred phy-rep for a Light solvent. If a flashlight is used, it must be covered with cloth, tissue paper, etc. to diffuse the light."
+  },
+  {
+    "prod_name": "Oil of Slipperiness (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 5,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Hour",
+    "notes": "The Oil of Slipperiness solvent, when applied to an item, makes that item unable to be picked up for one hour. When applied to an area, no one may enter the affected area without slipping. May only be used in a marshaled situation. Each vial, about one ounce, will cover a 12-inch by 12-inch area. It takes thirty (30) seconds to apply this substance, or fifteen (15) seconds with the Master Alchemist Skill."
+  },
+  {
+    "prod_name": "Paste of Stickiness (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 5,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Hour",
+    "notes": "The Paste of Stickiness solvent acts as a glue for one hour. It can also be used to paste objects to someone so they cannot be removed for one hour. When not applied to one’s own weapon or item, may only be used in a marshaled situation. Each vial, about one ounce, will cover a 12-inch by 12-inch area.If a Character pastes a weapon to their hand and that weapon is destroyed (e.g., a Shatter (C,3) spell or a Destroy (E,3) spell), they cannot wield a weapon with that hand until the paste wears off or is removed by Alchemical Solvent or an Unbind (EG/D/H,5) spell. Likewise, if a Character is Disarmed (C,1) or Fumbled (E,1), they cannot use the weapon for the 5-second duration of the spell. It takes thirty (30) seconds to apply this substance, or fifteen (15) seconds with the Master Alchemist Skill."
+  },
+  {
+    "prod_name": "Vorpal Coating +1 (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Event or Until Used",
+    "notes": "The Vorpal Coating +1, when applied to any weapon, causes one (1) additional point of damage for one combat upon initial contact with armor or body. This solvent may be applied to any weapon, after which, the tag should be attached to the weapon. Vorpal Coatings may not be stacked with other solvents (be they Alchemical or Poison) and only one Vorpal Coating may be present on a weapon. It takes thirty (30) seconds to apply this substance. A Master Alchemist may apply a Vorpal Coating in fifteen (15) seconds."
+  },
+  {
+    "prod_name": "Vorpal Coating +2 (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Event or Until Used",
+    "notes": "The Vorpal Coating +2, when applied to any weapon, causes two (2) additional points of damage for one combat upon initial contact with armor or body. This solvent may be applied to any weapon, after which, the tag should be attached to the weapon. Vorpal Coatings may not be stacked with other solvents (be they Alchemical or Poison) and only one Vorpal Coating may be present on a weapon. It takes one (1) minute to apply this substance. A Master Alchemist may apply a Vorpal Coating in fifteen (15) seconds."
+  },
+  {
+    "prod_name": "Vorpal Coating +3 (Solvent)",
+    "type": "Alchemy",
+    "point_cost": 12,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Event or Until Used",
+    "notes": "The Vorpal Coating +3, when applied to any weapon, causes three (3) additional points of damage for one combat upon initial contact with armor or body. This solvent may be applied to any weapon, after which, the tag should be attached to the weapon. Vorpal Coatings may not be stacked with other solvents (be they Alchemical or Poison) and only one Vorpal Coating may be present on a weapon. It takes one (1) minute to apply this substance. A Master Alchemist may apply a Vorpal Coating in fifteen (15) seconds."
+  },
+  {
+    "prod_name": "Agony (Ingested)",
+    "type": "Poison",
+    "point_cost": 6,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "1 Minute",
+    "notes": "The Agony Poison contaminates the blood of the victim. The victim is struck with agonizing pain and will die in one (1) minute unless appropriate healing magic (see above) or the proper antidote is administered.While Poisoned with an Agony Poison, a Character will be unable to fight, cast spells, or run. they may, however, produce and imbibe an antidote or curative Potion or speak. they must slowly crawl wherever they wish to go. The Character may not be given a Killing Blow until subdued."
+  },
+  {
+    "prod_name": "Agony (Gas)",
+    "type": "Poison",
+    "point_cost": 12,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Agony Poison contaminates the blood of the victim. The victim is struck with agonizing pain and will die in one (1) minute unless appropriate healing magic (see above) or the proper antidote is administered.While Poisoned with an Agony Poison, a Character will be unable to fight, cast spells, or run. they may, however, produce and imbibe an antidote or curative Potion or speak. they must slowly crawl wherever they wish to go. The Character may not be given a Killing Blow until subdued."
+  },
+  {
+    "prod_name": "Berserk (Ingested)",
+    "type": "Poison",
+    "point_cost": 6,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Berserk Poison causes the victim to attack the nearest Character or creature, friend or foe, within sight, to the best of their ability, for ten (10) minutes. Once subdued, the Character is no longer berserk. This Poison may be cured by appropriate healing magic (see above) or the proper antidote being administered."
+  },
+  {
+    "prod_name": "Berserk (Gas)",
+    "type": "Poison",
+    "point_cost": 12,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Rare",
+    "duration": "10 Minutes",
+    "notes": "The Berserk Poison causes the victim to attack the nearest Character or creature, friend or foe, within sight, to the best of their ability, for ten (10) minutes. Once subdued, the Character is no longer berserk. This Poison may be cured by appropriate healing magic (see above) or the proper antidote being administered."
+  },
+  {
+    "prod_name": "Cause -2 Damage (Ingested)",
+    "type": "Poison",
+    "point_cost": 1,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Cause -2 Damage Poison causes two (2) Body Points of damage."
+  },
+  {
+    "prod_name": "Cause -2 Damage (Gas)",
+    "type": "Poison",
+    "point_cost": 1,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Cause -2 Damage Poison causes two (2) Body Points of damage."
+  },
+  {
+    "prod_name": "Charm (Ingested)",
+    "type": "Poison",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Charm Poison causes the target to treat the attacker as though the attacker is their best friend in the world. The victim must stay by the attacker’s side and listen to their suggestions.Although the attacker is the victim’s best friend, the victim will not mindlessly follow the attacker’s orders, nor will they do anything that they would not normally do, unless the attacker gives them a very good reason (that’s why it’s called role-playing).If the attacker’s party attacks the victim, the attacker must give a convincing reason why they are not helping to defend the victim, or the Poison will be broken immediately. The charm may be broken by use of appropriate healing magic (see above), administration of the proper antidote, or the Sylvan Fae’s “Charm Break” ability.A Character already under the effects of another charming effect [Charm (C,6), Friendship (E,7), Influence, Vampyric Dominate, etc.] is not affected by a Charm Poison. Incredibly powerful effects, such as Supercharm will still work as normal on the Character. The charm effect lasts ten (10) minutes."
+  },
+  {
+    "prod_name": "Charm (Gas)",
+    "type": "Poison",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Charm Poison causes the target to treat the attacker as though the attacker is their best friend in the world. The victim must stay by the attacker’s side and listen to their suggestions.Although the attacker is the victim’s best friend, the victim will not mindlessly follow the attacker’s orders, nor will they do anything that they would not normally do, unless the attacker gives them a very good reason (that’s why it’s called role-playing).If the attacker’s party attacks the victim, the attacker must give a convincing reason why they are not helping to defend the victim, or the Poison will be broken immediately. The charm may be broken by use of appropriate healing magic (see above), administration of the proper antidote, or the Sylvan Fae’s “Charm Break” ability.A Character already under the effects of another charming effect [Charm (C,6), Friendship (E,7), Influence, Vampyric Dominate, etc.] is not affected by a Charm Poison. Incredibly powerful effects, such as Supercharm will still work as normal on the Character. The charm effect lasts ten (10) minutes."
+  },
+  {
+    "prod_name": "Forget-It-Well (Ingested)",
+    "type": "Poison",
+    "point_cost": 10,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Permanent After 2 Hours",
+    "notes": "The Forget-It-Well Poison causes the victim to forget one event from the past and remember a 1 to 10-word phrase in its place (a Plot Marshal must be notified as soon as possible to record the phrase). Target will reconcile details they are presented with in the 1-10 word phrase remembered in place of the memory, in such a way as to make the phrase to make sense to themself. This can only be cured if done so within the first two (2) hours by appropriate healing magic (see above) or the proper antidote being administered. After that time and up to one year later, it can only be removed with a Cleanse Formal Magic Ritual. After one year has passed, it is permanent and cannot be removed by any means. This Poison may not be self-administered. The Identify Formal Ritual will not detect this effect.The victim of this Poison will not remember being Poisoned with the Forget-It-Well. However, the whispered 1 to 10-word phrase to be remembered in its place and the event to be forgotten are a verbal action that can be overheard by others.The 1 to 10-word phrase remembered in place of the event to be forgotten is also recalled in all cases in which the event to forget was further mentioned by the Poisoned Character.For example, Joseph the Rogue and James the Necromancer murdered a Character on a back trail in July. After the murder, they discuss what happened, what to do with the stolen belongings, and how best to cover up the murder. In August, Joseph creates a Forget-It-Well Poison and mixes it into a glass of wine they bought for James. James drinks the wine and Joseph leans over and says “You forget the murder we committed last Gather. You instead remember ‘Going to the Tavern for a sandwich with Joseph.’” In every instance that James spoke about the murder committed, they now remembers “Going to the Tavern for a sandwich with Joseph”. The planning of the murder, the time directly preceding the murder in which they waited in ambush, and the selling of the victim’s belongings are not forgotten, but in the mind of James, they was planning on murdering the victim, but instead decided to go to the Tavern for a sandwich with Joseph and at some point in time, inexplicably came across the belongings of the murdered Character.The Player must keep the Forget-It-Well tag on their Skill ring at all times."
+  },
+  {
+    "prod_name": "Forget-Me-Not (Ingested)",
+    "type": "Poison",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Permanent After 2 Hours",
+    "notes": "The Forget-Me-Not Poison causes the victim to lose memory of the last fifteen (15) minutes. A 1 to 10-word phrase, told to the victim, will be remembered instead (a Plot Marshal must be notified as soon as possible to record the phrase). Target will reconcile details they are presented with in the 1-10 word phrase remembered in place of the memory, in such a way as to make the phrase to make sense to themself. The victim will not feel the loss of the last (15) fifteen minutes as the 1 to 10-word phrase remembered instead fills the gap in the victim’s memory.This can only be cured if done so within the first two (2) hours by appropriate healing magic (see above) or the proper antidote being administered. After that time and up to one year later it can only be removed with a Cleanse Formal Magic Ritual. After one year has passed it is permanent and cannot be removed by any means. This Poison may not be self-administered. The Identify Formal Ritual will not detect this effect.The victim of this Poison will not remember being Poisoned with the Forget-Me-Not. However, the whispered 1 to 10-word phrase to be remembered in its place and the event to be forgotten are a verbal action that can be overheard by others.The Player must keep the Forget-Me-Not tag on their Skill ring at all times."
+  },
+  {
+    "prod_name": "Hallucinoid (Ingested)",
+    "type": "Poison",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Hallucinoid Poison causes the victim to hallucinate for ten (10) minutes. The victim cannot engage in combat or cast spells. Use imagination with this one, and remember, whatever you choose to hallucinate about, you have to do it for ten minutes.This Poison may be cured by appropriate healing magic (see above) or the proper antidote being administered."
+  },
+  {
+    "prod_name": "Instant Death (Ingested)",
+    "type": "Poison",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Instant",
+    "notes": "The Instant Death Poison kills a living target instantly, as if struck by a Killing Blow. The only way to save a Character killed by this Poison is by a Life (EG/D, 9) or Revive (H,9) spell. If a Character is Desecrated, swap Life (EG/D, 9) for the Death (EG/D,9) spell."
+  },
+  {
+    "prod_name": "Nausea (Gas)",
+    "type": "Poison",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "This Nausea Poison causes the victim to be sick, making them call -2 damage (Strength) in combat as well as making them unable to run or use the Dodge Skill for ten (10) minutes. A Purify Blood (EG/D,5), Cleanse Blood (H,5), Remedy (EG/H,7), Renew (EG/D,8), or Heal Mortal Wounds (H,8) spell, or using the proper antidote, will cure the victim of Nausea. Note: Should the Character be Desecrated, use the same list as above but swap Purify Blood and Renew for Poison (EG/D,5) and Waste (EG/D/N,8)."
+  },
+  {
+    "prod_name": "Paralysis (Ingested)",
+    "type": "Poison",
+    "point_cost": 6,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Paralysis Poison completely immobilizes the target for ten (10) minutes. they may not move any part of their body. Other Characters may move parts of their body to pose them and may also give the victim a Killing Blow. An Unparalyze (E,8), other appropriate healing magic (see above), or the proper antidote must be administered to remove the Paralysis."
+  },
+  {
+    "prod_name": "Paralysis (Gas)",
+    "type": "Poison",
+    "point_cost": 12,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Rare",
+    "duration": "10 Minutes",
+    "notes": "The Paralysis Poison completely immobilizes the target for ten (10) minutes. they may not move any part of their body. Other Characters may move parts of their body to pose them and may also give the victim a Killing Blow. An Unparalyze (E,8), other appropriate healing magic (see above), or the proper antidote must be administered to remove the Paralysis."
+  },
+  {
+    "prod_name": "Sleep (Ingested)",
+    "type": "Poison",
+    "point_cost": 4,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Sleep Poison causes the target to fall into a deep sleep for ten (10) minutes. they may only be awakened by shaking for ten (10) seconds or by appropriate healing magic (see above) or the proper antidote being administered."
+  },
+  {
+    "prod_name": "Sleep (Gas)",
+    "type": "Poison",
+    "point_cost": 8,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "10 Minutes",
+    "notes": "The Sleep Poison causes the target to fall into a deep sleep for ten (10) minutes. they may only be awakened by shaking for ten (10) seconds or by appropriate healing magic (see above) or the proper antidote being administered."
+  },
+  {
+    "prod_name": "Slow Poison (Ingested)",
+    "type": "Poison",
+    "point_cost": 2,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Common",
+    "duration": "Until Death or 1 hour",
+    "notes": "Causes one (1) Body Point of damage per minute until treated. If not treated, the Character will die within one hour, regardless of the number of Body Points they have left.Healing spells, Potions, and Alchemy will not cure the Body Points lost from the victim until the appropriate healing magic (see above) or the proper antidote has been administered."
+  },
+  {
+    "prod_name": "Instant Death (Gas)",
+    "type": "Poison",
+    "point_cost": 0,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Special",
+    "duration": "Instant",
+    "notes": "The Instant Death Poison kills a living target instantly, as if struck by a Killing Blow. The only way to save a Character killed by this Poison is by a Life (EG/D, 9) or Revive (H,9) spell. If a Character is Desecrated, swap Life (EG/D, 9) for the Death (EG/D,9) spell.Special: Note, only a Master Poisoner may create an Instant Death Gas and this may only be done through means found in-play – no production formula exists, but the Gas is included here for completeness."
+  },
+  {
+    "prod_name": "Blade Venom",
+    "type": "Solvent",
+    "point_cost": 0,
+    "cost_multiplier": 0.1,
+    "base_coin": "silver",
+    "rarity": "Special",
+    "duration": "1  event or until used",
+    "notes": "Blade Venom is a special type of Poison that may only be created by a Master Poisoner once per game day. This Poison may be applied to the Master Poisoner’s edged weapon on a sixty (60) second count for later use.Blade Venom will allow the Master Poisoner to call the “Poison” tagline for their next (3) three consecutive swings with the weapon the Poison is applied to. Note that the ability to call the “Poison” tagline for (3) three swings will only work for the Master Poisoner themself, even should their weapon be picked up by someone else.Blade Venom vials produced daily may be saved for later use, sold, or traded; but only a Master Poisoner may apply or use them. Any attempt to apply the Poison by a Character not possessing this Skill will result in the Character accidentally Poisoning themself, immediately taking an Agony Poison directly to their bloodstream, bypassing the Toxin Shield (E,5) spell. The Resist Toxin Skill applies normally.Note that Blade Venoms may not be stacked with other solvents (be they Alchemical or Poison) and only one Blade Venom may be present on a weapon at a time. Blade Venom may not be applied to a Waylay Widget.Special: Only a Master Poisoner may produce or use this Poison."
+  }
+]
